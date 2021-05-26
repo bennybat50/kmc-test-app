@@ -6126,6 +6126,7 @@ form .form-row-first.text-right {
 
 /* new css files */
 
+/* diversity css */
 .p-title{font-size: 25px; color: #000;}
 .site-card{padding: 20px; box-shadow: #000;   box-shadow: 1px 1px 5px #aaaaaa;}
 .missionHeight{height: 420px; margin-bottom: 20px;}
@@ -6142,6 +6143,39 @@ form .form-row-first.text-right {
 .blue-border-top{border-top: 4px solid #23527C;}
 .text-bold{font-weight: 700; color: black;}
 .mar-20{margin: 20px;}
+.pad-30{padding: 30px;}
 .pad-20{padding: 20px;}
 .pad-10{padding: 10px;}
 .pad-5{padding: 5px;}
+
+/* diversity css end*/
+
+/* ESG css */
+.esg-welcome{height: 650px; width: 100%; background-image: url('../images/esg/hero-esg-approach-650.webp'); background-repeat: no-repeat; background-size: cover;}
+.esg-welcome .content{padding-top: 250px; padding-left: 100px; color: white;}
+.esg-welcome .content h1{color: white; font-size: 60px; font-weight: 400;}
+.esg-welcome .content p{font-size: 20px;}
+.esg-welcome .content2{padding-top: 180px; color: white; text-align: center; font-size: 20px; font-weight: 500;} 
+.integrated{padding-left: 250px; padding-right: 250px;}
+.integrated p{padding-bottom: 20px; font-size: 20px; letter-spacing: 1px;}
+.integrated .link{margin-top: 10px; font-size: 18px; color: #0096D7; font-weight: 600;}
+.video-area{width: 80%; height: 600px; margin: auto; background-image: url('../images/diversity/accelerate-bg.png'); background-repeat: no-repeat; background-size: cover;}
+.grap{width: 100%; height: 600px; background-image: url('../images/esg/grap.svg'); background-size: 300; background-repeat: no-repeat;}
+.how-it-work-line{width: 80px; height: 4px; background-color: #0096D7; margin-top: 100px; margin-right: 200px; margin-bottom: 20px;}
+.grab-side p{margin-top: 20px; font-size: 18px; letter-spacing: 1px; font-weight: 400;}
+.grab-side h2{font-weight: 400;}
+.grab1{width: 100%; height: 400px; background-position: center; background-image: url('../images/esg/grap1.svg'); background-size: 200; background-repeat: no-repeat;}
+.circle-blue{width: 150px; margin: 20px; height: 150px; border-radius: 500px; background-color: #01609E; color: white; font-size: 55px; font-weight: 700; padding-top: 60px;}
+.circle-sec p{text-align: center; padding-left: 10px; font-size: 20px; font-weight: 700; color: #000;}
+.grab1-sec{padding-left: 50px;}
+.grab1-sec p{font-size: 28px; color: #000;  padding-left: 100px; padding-right: 50px; padding-bottom: 10px;}
+.grab1-sec .p2{letter-spacing: 0.5px; line-height: 35px;}
+.grab1-sec p b{font-weight: 800;}
+.circle-text1{font-size: 18px; letter-spacing: 1px; padding-bottom: 30px;}
+.circle-text1 .link{ font-size: 16px; color: #0096D7; font-weight: 600;}
+.circle-text1 .p1{padding-bottom: 20px;}
+.circle-text1 .p2{padding-top: 20px; font-size: 16px;  font-weight: 800; color: #000; line-height: 35px;}
+.video-area2{width: 100%; height: 400px; margin: auto; background-image: url('../images/diversity/accelerate-bg.png'); background-repeat: no-repeat; background-size: cover;}
+.grab2{width: 100%; height: 400px; background-position: center; background-image: url('../images/esg/grap2.svg'); background-size: 200; background-repeat: no-repeat;}
+
+.grab4{width: 100%; height: 400px; background-position: center; background-image: url('../images/esg/grap4.svg'); background-size: 200; background-repeat: no-repeat;}

@@ -6179,3 +6179,36 @@ form .form-row-first.text-right {
 .grab2{width: 100%; height: 400px; background-position: center; background-image: url('../images/esg/grap2.svg'); background-size: 200; background-repeat: no-repeat;}
 
 .grab4{width: 100%; height: 400px; background-position: center; background-image: url('../images/esg/grap4.svg'); background-size: 200; background-repeat: no-repeat;}
+.portfolio-content h1{ margin-bottom: 2px; font-size: 50px; }
+.portfolio-content h3{  font-size: 30px; }
+.portfolio-content small{font-size: 10px;}
+.summary h1{font-size: 100px; color: #B42674; margin-bottom: 2px; margin-top: 50px; }
+.summary h3{font-size: 60px; color: #B42674;}
+.summary small{font-size: 10px;}
+.blue-box{background-color: #005F9E; margin-top: 150px; margin-left: 10%; margin-right: 10%;}
+.blue-box .img{margin-top: -50px;padding-bottom: 80px; }
+.blue-box .content{padding: 50px; color: white;}
+.blue-box .content h5{color: white;}
+.blue-box .content h3{color: white;font-size: 30px; letter-spacing: 1px; font-weight: 400;}
+.blue-box .content .link{color: white; letter-spacing: 1px; font-size: 20px;}
+/* ESG css end */
+
+/* Reason css */
+
+.reason-welcome{height: 350px; width: 100%; background-image: url('../images/reason/esg-banner-prev2.webp'); background-repeat: no-repeat; background-size: cover;}
+.reason-welcome .content{padding-top: 70px; padding-left: 100px; color: black;}
+.reason-welcome .content h1{color: black; font-size: 35px; font-weight: 700;}
+.reason-welcome .content p{font-size: 16px;}
+.video-part{height: 500px; width: 100%; background-image: url('../images/reason/video.png'); background-repeat: no-repeat; background-size: cover; background-position: center;}
+.longLine{width: 100%; height: 3px; background-color: #00A0DC; margin-top: 20px; margin-bottom: 20px;}
+.trilliumImg{height: 400px; width: 100%; object-fit: contain;}
+.bestPracticeImg{height: 400px; width: 100%; object-fit: contain; margin-top: 50px;}
+.colorBox{padding: 30px; text-align: center;}
+.colorBox h4{font-size: 18px; font-weight: 700;  padding-bottom: 20px;}
+.bg-lightBlue{background-color: #DBEFFB;}
+.bg-green{background-color: #81BB00; color: white;}
+.bg-green h4{color: white;}
+.icon-grid .text-info{color: #5FC0EB;}
+.icon-grid .text-warning{color: #F59B00;}
+.gamCardHeight{height: 350px;}
+.icon-images img{width: 150px;}

@@ -6148,6 +6148,14 @@ form .form-row-first.text-right {
 .pad-10{padding: 10px;}
 .pad-5{padding: 5px;}
 
+@media (max-width:700px) {
+  .mar-20{margin: 10px;}
+  .pad-30{padding: 15px;}
+  .pad-20{padding: 10px;}
+  .pad-10{padding: 5px;}
+  .pad-5{padding: 0px;}
+}
+
 /* diversity css end*/
 
 /* ESG css */
@@ -6157,10 +6165,17 @@ form .form-row-first.text-right {
 .esg-welcome .content p{font-size: 20px;}
 .esg-welcome .content2{padding-top: 180px; color: white; text-align: center; font-size: 20px; font-weight: 500;} 
 .integrated{padding-left: 250px; padding-right: 250px;}
+
 .integrated p{padding-bottom: 20px; font-size: 20px; letter-spacing: 1px;}
 .integrated .link{margin-top: 10px; font-size: 18px; color: #0096D7; font-weight: 600;}
 .video-area{width: 80%; height: 600px; margin: auto; background-image: url('../images/diversity/accelerate-bg.png'); background-repeat: no-repeat; background-size: cover;}
-.grap{width: 100%; height: 600px; background-image: url('../images/esg/grap.svg'); background-size: 300; background-repeat: no-repeat;}
+.grap{width: 90%; background-position-x: center; height: 600px; background-image: url('../images/esg/grap.svg'); background-size: 300; background-repeat: no-repeat;}
+@media (max-width:700px) {
+  .integrated{padding-left: 10px; padding-right: 10px;}
+  .grap{width: 100%;background-size: contain;height: 200px;}
+  .video-area{width: 100%; height: 200px;}
+  .grab1-sec{padding-left: 5px;}
+}
 .how-it-work-line{width: 80px; height: 4px; background-color: #0096D7; margin-top: 100px; margin-right: 200px; margin-bottom: 20px;}
 .grab-side p{margin-top: 20px; font-size: 18px; letter-spacing: 1px; font-weight: 400;}
 .grab-side h2{font-weight: 400;}
@@ -6175,7 +6190,8 @@ form .form-row-first.text-right {
 .circle-text1 .link{ font-size: 16px; color: #0096D7; font-weight: 600;}
 .circle-text1 .p1{padding-bottom: 20px;}
 .circle-text1 .p2{padding-top: 20px; font-size: 16px;  font-weight: 800; color: #000; line-height: 35px;}
-.video-area2{width: 100%; height: 400px; margin: auto; background-image: url('../images/diversity/accelerate-bg.png'); background-repeat: no-repeat; background-size: cover;}
+.video-area2{width: 70%; height: 400px; margin: auto; background-image: url('../images/diversity/accelerate-bg.png'); background-repeat: no-repeat; background-size: cover; background-position: center;}
+.link-video{font-size: 16px; color: #0096D7; font-weight: 600;}
 .grab2{width: 100%; height: 400px; background-position: center; background-image: url('../images/esg/grap2.svg'); background-size: 200; background-repeat: no-repeat;}
 
 .grab4{width: 100%; height: 400px; background-position: center; background-image: url('../images/esg/grap4.svg'); background-size: 200; background-repeat: no-repeat;}
@@ -6185,7 +6201,7 @@ form .form-row-first.text-right {
 .summary h1{font-size: 100px; color: #B42674; margin-bottom: 2px; margin-top: 50px; }
 .summary h3{font-size: 60px; color: #B42674;}
 .summary small{font-size: 10px;}
-.blue-box{background-color: #005F9E; margin-top: 150px; margin-left: 10%; margin-right: 10%;}
+.blue-box{background-color: #005F9E; margin-top: 150px; }
 .blue-box .img{margin-top: -50px;padding-bottom: 80px; }
 .blue-box .content{padding: 50px; color: white;}
 .blue-box .content h5{color: white;}
@@ -6194,7 +6210,6 @@ form .form-row-first.text-right {
 /* ESG css end */
 
 /* Reason css */
-
 .reason-welcome{height: 350px; width: 100%; background-image: url('../images/reason/esg-banner-prev2.webp'); background-repeat: no-repeat; background-size: cover;}
 .reason-welcome .content{padding-top: 70px; padding-left: 100px; color: black;}
 .reason-welcome .content h1{color: black; font-size: 35px; font-weight: 700;}

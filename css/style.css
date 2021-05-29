@@ -6313,7 +6313,7 @@ form .form-row-first.text-right {
 .sus-sec9 img{height: 500px; width: 100%; object-fit: cover; }
 
 .sus-sec10 .content{margin: 20px 20px 0px 20px; border: 1px solid #00294B; height: 400px;}
-.sus-sec10 .content h3{padding: 30px;}
+.sus-sec10 .content h3{padding: 30px; margin-bottom: 5px;}
 .sus-sec10 .content p{padding: 30px;}
 .sus-sec10 .btnS{background-color: #00294B; color: white; padding: 7px; width: 89.2%; height: 40px; text-align: center; margin-left: 20px; margin-right: 20px;}
 .later{color: white; padding-left: 30px; padding-top: 5px; display: none;}

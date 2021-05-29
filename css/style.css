@@ -6265,3 +6265,57 @@ form .form-row-first.text-right {
 .corp-sec8 .site-card a:hover{background-color: #000000; color: white;}
 .corp-sec8 .site-card .fa{padding-left: 50px;}
 /* Corporate css end */
+
+/* Sustain css  */
+.sustain-welcome{height: 300px; width: 100%; background-image: url('../images/sustanability/banner.png'); background-repeat: no-repeat; background-size: cover;}
+.sustain-welcome .content{padding-top: 130px; padding-left: 100px; color: white;}
+.sustain-welcome .content h1{color: white; font-size: 45px; font-weight: 700;}
+.sustain-welcome .content h3{font-size: 25px; color: white;}
+.sus-sec1 .title{color: #003B34;}
+.sus-sec1 img{height: 600px; width: 100%; object-fit: cover; object-position: top; padding-bottom: 50px;}
+.sus-sec2 .vertical-line{ height: 130px; width: 3px; background-color: #7BBF00;}
+.sus-sec2 h1{font-size: 30px; color: #003B34; }
+.sus-sec2 h5{font-size: 18px; font-weight: 800;}
+.sus-sec2 .content{margin-top: 40px;}
+.sus-sec3 {margin-top: 80px;}
+.sus-sec4{background-color: #F2F5F5; padding: 30px; margin-top: 70px;}
+.sus-sec4 .vertical-line{margin-top: 20px; height: 130px; width: 3px; background-color: #7BBF00;}
+.sus-sec4 a{font-size: 20px; font-weight: 600;}
+.sus-sec4 .fa{padding-left: 20px;}
+.sus-sec4 .right{margin-top: 30px;}
+.sus-sec4 .right h1{color: rgb(58, 58, 58);}
+.sus-sec4 h1{margin-bottom: 5px; font-size: 50px;}
+.sus-sec4 h5{font-size: 16px;}
+.sus-sec6{background-color: #F2F5F5;}
+.sus-sec6 img{height: 450px; width: 100%; object-fit: cover; object-position: top;}
+.sus-sec6 .content{padding: 20px 40px 20px 40px;}
+.sus-sec6 .content p{font-size: 16px;}
+.sus-sec7{background-color: #F2F5F5; padding: 20px;}
+.sus-sec7 h3{padding-top: 50px; padding-bottom: 20px;}
+.sus-sec7 img{padding-bottom: 10px; height: 250px;}
+.sus-sec7 h5{font-size: 16px; }
+.sus-sec7 p{font-size: 14px; }
+.sus-sec7 .content{padding-bottom: 30px; padding-right: 10px; padding-left: 10px;}
+.sus-sec8 .content{background-color: #F2F5F5; padding: 20px; margin-left: -100px; margin-top: 20px; height: 460px;}
+.sus-sec8 .content h3{padding-left: 30px;padding-top: 20px; }
+.sus-sec8 .content p{padding-left: 30px; padding-top: 20px;  }
+.sus-sec8 .content a{margin-left: 30px;  padding: 15px; border: 1px solid black; color: black; }
+.sus-sec8 .content a:hover{color: #43a3fc;  border: 1px solid #43a3fc;}
+.sus-sec8 .content a .fa{padding-left: 20px;}
+.sus-sec8 img{height: 500px; width: 100%; object-fit: cover;}
+
+.sus-sec9 .content{ background-color: #F2F5F5; z-index: 100; position: relative; padding: 20px; margin-right: -150px; margin-top: 60px; height: 360px;}
+.sus-sec9 .content h3{padding-left: 30px;padding-top: 20px; }
+.sus-sec9 .content p{padding-left: 30px; padding-top: 20px;  }
+.sus-sec9 .content a{margin-left: 30px;  padding: 15px; border: 1px solid black; color: black; }
+.sus-sec9 .content a:hover{color: #43a3fc;  border: 1px solid #43a3fc;}
+.sus-sec9 .content a .fa{padding-left: 20px;}
+.sus-sec9 img{height: 500px; width: 100%; object-fit: cover; }
+
+.sus-sec10 .content{margin: 20px 20px 0px 20px; border: 1px solid #00294B; height: 400px;}
+.sus-sec10 .content h3{padding: 30px;}
+.sus-sec10 .content p{padding: 30px;}
+.sus-sec10 .btnS{background-color: #00294B; color: white; padding: 7px; width: 89.2%; height: 40px; text-align: center; margin-left: 20px; margin-right: 20px;}
+.later{color: white; padding-left: 30px; padding-top: 5px; display: none;}
+.later2{display: block;}
+/* Sustain css  end*/
